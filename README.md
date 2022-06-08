@@ -34,6 +34,7 @@ If player D wins, then the new ranking looks like
 | 3 | B |
 | 4 | C |
 
+However, if player D loses, nothing changes.
 
 ## Logistics 
 
