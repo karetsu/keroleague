@@ -1,4 +1,4 @@
-# Ladder league
+# Leapfrog
 
 This is a leapfrog ladder league, with character lock. You must play the character or team you registered with.
 
